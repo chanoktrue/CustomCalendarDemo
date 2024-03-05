@@ -11,6 +11,7 @@
 		CDFC819F2B9687CE0040E76C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFC819E2B9687CE0040E76C /* ContentView.swift */; };
 		CDFC81A12B9687D00040E76C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDFC81A02B9687D00040E76C /* Assets.xcassets */; };
 		CDFC81A42B9687D00040E76C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDFC81A32B9687D00040E76C /* Preview Assets.xcassets */; };
+		CDFC81AB2B9689C00040E76C /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFC81AA2B9689C00040E76C /* Date+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CDFC819E2B9687CE0040E76C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CDFC81A02B9687D00040E76C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDFC81A32B9687D00040E76C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CDFC81AA2B9689C00040E76C /* Date+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CDFC819C2B9687CE0040E76C /* CustomCalendarDemoApp.swift */,
 				CDFC819E2B9687CE0040E76C /* ContentView.swift */,
+				CDFC81AA2B9689C00040E76C /* Date+Extension.swift */,
 				CDFC81A02B9687D00040E76C /* Assets.xcassets */,
 				CDFC81A22B9687D00040E76C /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				CDFC819F2B9687CE0040E76C /* ContentView.swift in Sources */,
 				CDFC819D2B9687CE0040E76C /* CustomCalendarDemoApp.swift in Sources */,
+				CDFC81AB2B9689C00040E76C /* Date+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
